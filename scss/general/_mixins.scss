@@ -1,0 +1,13 @@
+@mixin bcg-img() {
+  content: " ";
+  width: 35px;
+  height: 27px;
+  position: absolute;
+  top: 32%;
+  right: 0;
+  bottom: 0;
+  left: 3%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
